@@ -1,0 +1,32 @@
+.img{
+    width: 100px;
+    height: 100px;
+}
+
+.navbar{
+   padding: 5px;
+        
+      background-color: #0f0f0f !important;
+       /* background: linear-gradient(to right, #141e30, #243b55); */
+      
+    
+   
+}
+
+.nav-link{
+    color: #00FF88 !important;
+    font-size: 1rem;
+    
+    
+    
+}
+
+
+.navbar-nav{
+    margin-left: 55%;
+    
+}
+
+.nav-item{
+    padding:10px;
+}
